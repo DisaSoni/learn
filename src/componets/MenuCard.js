@@ -7,7 +7,7 @@ import React from 'react'
         {menuData.map((curElem) =>{
 
            //structuring
-            const { id, name, category, image, dscription } =curElem;
+            const { id, name, category, image, description } =curElem;
 
             return(
                 <>
